@@ -1,0 +1,6 @@
+{
+    "host" : "localhost",
+    "user" : "root",
+    "password" : "Mysql",
+    "database" : "stock_dashboard"
+}

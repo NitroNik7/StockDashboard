@@ -1,0 +1,10 @@
+1. Routes are URL handling codes for endpoints that users can hit. They contain handler functions.
+
+2. Routes forward the supported requests (any any information ecnoded in the request URLs) to the appropriate controller functions. 
+
+3. A route associates an HTTP verb (GET, POST, PUT, DELETE) to an URL and callback handler function. 
+
+
+2. Routes -
+    auth
+    dashboard

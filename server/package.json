@@ -1,0 +1,32 @@
+{
+  "name": "sd_server",
+  "version": "1.0.0",
+  "description": "Server for Stock dashboard webapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NitroNik7/demoangu.git"
+  },
+  "author": "Nitronik7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NitroNik7/demoangu/issues"
+  },
+  "homepage": "https://github.com/NitroNik7/demoangu#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+    "express-validator": "^7.2.0",
+    "help": "^3.0.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}

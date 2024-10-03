@@ -1,0 +1,1 @@
+Controller - performs crud operations on concerned models and creates HTML pages which it returns to the user for displaying in the browser
