@@ -1,0 +1,13 @@
+.navbar {
+    display: flex;
+}
+.navbar_menu {
+    position: fixed;
+    right: 10px
+    /* width: 20%; */
+}
+.navbar_logo{
+    position: fixed;
+    left: 10px;
+    
+}
